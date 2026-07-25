@@ -1,0 +1,12 @@
+file_format: "1"
+id: chunkeyb
+name: Chunkeyb
+type: shield
+requires:
+  - pro_micro
+features:
+  - keys
+  - studio
+siblings:
+  - chunkeyb_left
+  - chunkeyb_right

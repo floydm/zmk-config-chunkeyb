@@ -1,0 +1,5 @@
+config SHIELD_CHUNKEYB_LEFT
+    def_bool $(shields_list_contains,chunkeyb_left)
+
+config SHIELD_CHUNKEYB_RIGHT
+    def_bool $(shields_list_contains,chunkeyb_right)
