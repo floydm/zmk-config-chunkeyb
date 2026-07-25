@@ -6,7 +6,6 @@ requires:
   - pro_micro
 features:
   - keys
-  - studio
 siblings:
   - chunkeyb_left
   - chunkeyb_right
