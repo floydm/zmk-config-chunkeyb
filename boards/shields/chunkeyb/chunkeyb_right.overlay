@@ -1,6 +1,7 @@
 #include "chunkeyb.dtsi"
 
-&default_transform {
+&matrix_transform0 {
+    // Set this to the number of columns on the left side.
     col-offset = <6>;
 };
 
