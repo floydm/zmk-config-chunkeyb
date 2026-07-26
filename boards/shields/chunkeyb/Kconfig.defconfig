@@ -1,0 +1,9 @@
+if SHIELD_CHUNKEYB_LEFT || SHIELD_CHUNKEYB_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "Chunkeyb"
+
+config ZMK_SPLIT
+    default y
+
+endif
